@@ -28,3 +28,4 @@
 /Users/william/Documents/foraneoApp2/foraneoApp/obj/Debug/net8.0/foraneoApp.pdb
 /Users/william/Documents/foraneoApp2/foraneoApp/obj/Debug/net8.0/foraneoApp.genruntimeconfig.cache
 /Users/william/Documents/foraneoApp2/foraneoApp/obj/Debug/net8.0/ref/foraneoApp.dll
+/Users/william/Documents/foraneoApp2/foraneoApp/obj/Debug/net8.0/scopedcss/Views/Login/Login.cshtml.rz.scp.css

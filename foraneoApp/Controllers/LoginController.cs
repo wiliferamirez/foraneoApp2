@@ -5,13 +5,9 @@ namespace foraneoApp.Controllers;
 
 public class LoginController : Controller
 {
-    public string Index()
+    public IActionResult Index()
     {
-        return "This is my default action...";
+        return View("Login");
     }
 
-    public string Welcome()
-    {
-        return "This is the Welcome action method...";
-    }
 }

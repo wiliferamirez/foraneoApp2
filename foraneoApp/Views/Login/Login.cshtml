@@ -2,6 +2,17 @@
     ViewData ["Title"] = "foraneoApp";
 }
 
-<div class="text-center">
-    <h1 class="text-center">Inicia Sesión</h1>
+<div class="login">
+    <div>
+            <h1 class="text-center">Ingrese sus credenciales</h1>
+            <hr />
+    </div>
+    <form class="loginForm">
+            <label for="cedulaUsuario"><b>Cédula</b></label>
+            <input type="text" placeholder="Ingrese su cédula" name="cedulaUsuario" id="cedulaUsuario" required>
+            <label for="contrasenaUsuario"><b>Contraseña</b></label>
+            <input type="text" placeholder="Ingrese contraseña" name="contrasenaUsuaeio" id="contasenaUsuario" required>
+            <button type="submit">Login</button>
+    </form>
 </div>
+
