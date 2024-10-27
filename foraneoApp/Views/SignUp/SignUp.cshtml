@@ -1,0 +1,29 @@
+@{
+    ViewData ["Title"] = "foraneoApp";
+}
+
+<div class="signUp">
+    <div>
+        <h1 class="text-center">Registro</h1>
+        <hr />
+    </div>
+    <form class="signUpForm">
+        <label for="cedulaUsuario"><b>Cédula</b></label>
+        <input type="text" placeholder="Ingrese su cédula" name="cedulaUsuario" id ="cedulaUsuario" required>
+        <label for="nombreUsuario"><b>Nombre</b></label>
+        <input type="text" placeholder="Ingrese su primer nombre" name="nombreUsuario" id="nombreUsuario" required>
+        <label for="apellidoUsuario"><b>Apellido</b></label>
+        <input type="text" placeholder="Ingrese su apellido" name="apellidoUsuario" id="apellidoUsuario" required>
+        <label for="carreraUsuario"><b>Seleccione una carrera:</b></label>
+        <label for="correoInstitucional"><b>Coreeo Institucional</b></label>
+        <input type="email" placeholder="Ingrese su correo UDLA" name="correoInstitucional" id="correoInstitucional" required>
+        <select name="carreras" id="carreraUsuario">
+            <option value="software">Ingenieria de Software</option>
+            <option value="medicina">Medicina</option>
+            <option value="ciberseguridad">Ingenieria en Ciberseguridad</option>
+            <option value="admiEmpresas">Administracion de Empresas</option>
+            <option value="Psicología">Psicología</option>
+        </select>
+        <button type="submit">Registrar</button>
+    </form>
+</div>
