@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("foraneoApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2bdadee96cae86434f85705807e4f3a41677fb08")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+02576782953ec73321eff528d2a236f19a56276c")]
 [assembly: System.Reflection.AssemblyProductAttribute("foraneoApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("foraneoApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
