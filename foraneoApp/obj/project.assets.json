@@ -8031,24 +8031,32 @@
     ]
   },
   "packageFolders": {
-    "/Users/william/.nuget/packages/": {}
+    "C:\\Users\\wfram\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/william/Documents/foraneoApp2/foraneoApp/foraneoApp.csproj",
+      "projectUniqueName": "C:\\Users\\wfram\\Documents\\ForaneoApp2\\wiliferamirez\\foraneoApp2\\foraneoApp\\foraneoApp.csproj",
       "projectName": "foraneoApp",
-      "projectPath": "/Users/william/Documents/foraneoApp2/foraneoApp/foraneoApp.csproj",
-      "packagesPath": "/Users/william/.nuget/packages/",
-      "outputPath": "/Users/william/Documents/foraneoApp2/foraneoApp/obj/",
+      "projectPath": "C:\\Users\\wfram\\Documents\\ForaneoApp2\\wiliferamirez\\foraneoApp2\\foraneoApp\\foraneoApp.csproj",
+      "packagesPath": "C:\\Users\\wfram\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\wfram\\Documents\\ForaneoApp2\\wiliferamirez\\foraneoApp2\\foraneoApp\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "/Users/william/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\wfram\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -8116,7 +8124,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.403/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

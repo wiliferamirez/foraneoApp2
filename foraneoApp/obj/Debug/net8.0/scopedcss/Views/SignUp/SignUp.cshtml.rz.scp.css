@@ -1,32 +1,33 @@
-.signUp[b-3g955ktqzy]{
-    width: 350px;
+.signUp[b-qgva82wg9x] {
+    width: 500px;
     border: 1px solid #ccc;
     margin: 0 auto;
     padding: 20px 50px;
     background-color: white;
 }
-.text-center[b-3g955ktqzy]{
+.text-center[b-qgva82wg9x] {
     text-align: center;
     font-size: 1.2em;
     margin-bottom: 10px;
 }
-.signUpForm[b-3g955ktqzy]{
+.signUpForm[b-qgva82wg9x] {
     width: 100%;
     display: flex;
     flex-direction: column;
 }
-.signUpForm input[b-3g955ktqzy]{
-    margin: 8px 0;
-    padding: 8px;
-    width: 100%;
-    box-sizing: border-box;
-    border: 1px solid #ddd;
-    border-radius: 4px;
-}
-button[type="submit"][b-3g955ktqzy] {
+    .signUpForm input[b-qgva82wg9x] {
+        margin: 8px 0;
+        padding: 8px;
+        width: 100%;
+        box-sizing: border-box;
+        border: 1px solid #ddd;
+        border-radius: 4px;
+    }
+
+button[type="submit"][b-qgva82wg9x] {
     margin-top: 40px;
     padding: 10px;
-    background-color: #284975; 
+    background-color: #284975;
     color: white;
     border: none;
     border-radius: 4px;
@@ -34,6 +35,6 @@ button[type="submit"][b-3g955ktqzy] {
     width: 100%;
 }
 
-button[type="submit"]:hover[b-3g955ktqzy] {
-    background-color: #007bff; 
-}
+    button[type="submit"]:hover[b-qgva82wg9x] {
+        background-color: #007bff;
+    }
